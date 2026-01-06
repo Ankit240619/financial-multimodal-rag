@@ -1,3 +1,6 @@
-# Airflow
+.venv
+.env
+__pycache__
+test/
+txt
 airflow/logs/
-airflow/logs/**
